@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    margin: 10vw;
+}
+#buttons {
+    display: flex;
+    justify-content: center;
+}
+#buttons>div {
+    width: 10%;
+}
+button {
+    margin: 1vw;
+}
+
